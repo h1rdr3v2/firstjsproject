@@ -1,0 +1,117 @@
+.lcen{
+    margin:0 auto;
+}
+.dp{
+    background-image: url(./user.jpg);
+    width: 317px;
+    height: 317px;
+    top: 44px;
+    margin-top: 50px;
+    border-radius: 10px 10px 0px 0px;
+}
+.content{
+    color: #DCDCDC;
+    width: 317px;
+    height: 399px;
+    background: #1A1B21;
+}
+.user{
+    text-align: center;
+}
+.name{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0px;
+    padding-top: 21px;
+    margin-bottom: 6.19px;
+}
+
+.title{
+    margin: 0px;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    color: #F3BF99;
+    margin-bottom: 8.81px;
+}
+.web{
+    margin: 0px;
+    margin-bottom: 8.81px;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 35px 0 35px;
+}
+.btn + .btn {
+    margin-left: 17px;
+}
+.btn{
+    width: 115px;
+    height: 34px;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+}
+.btn-email{
+    background: #FFFFFF;
+    border: 1px solid;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #374151;
+}
+.btn-in{
+    background: #5093E2;
+    /* shadow/sm */
+    border: 1px solid #5093E2;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.icon{
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+}
+.description{
+    margin:30px;
+}
+.head{
+    line-height: 150%;
+    color: #F5F5F5;
+    margin: auto;
+}
+.detail{
+    margin: auto;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+.cent{   
+    padding: 19px 48px 19px 72px;
+}
+.foot{
+    color: #918E9B;
+    font-size:25px;;
+}
+span{
+    margin-right: 24px;
+}
+.footer{
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    margin-bottom: 50px;
+}
